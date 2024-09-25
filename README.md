@@ -2,7 +2,7 @@
 
 - 👋 I’m Amanda and I'm from São Paulo - Brazil
 - :mortar_board: I have a degree in Accounting
-- 🌱 I’m currently learning Data Science and Data Analytics because I want to switch to a new career!
+- 🌱 I’m currently learning Data Science and Data Analytics.
 
 
 <!---
